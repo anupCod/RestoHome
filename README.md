@@ -56,7 +56,7 @@ restoHome/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/restoHome.git
+git clone git@github.com:anupCod/RestoHome.git
 cd restoHome
 ```
 
